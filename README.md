@@ -12,13 +12,5 @@
 - **Data Analytics**:  ETL, Data Cleaning, Data Modeling, Data Visualization, Statistical Analysis, KPI Reporting
 ---
 
-### 📌 Featured Projects
-- [📈 Flipkart Mobile Sales Dashboard (Power BI)](https://github.com/yourusername/flipkart-mobile-dashboard)
-- [🧾 FMCG Supply Chain KPI Analysis (Power BI)](https://github.com/yourusername/fmcg-kpi-dashboard)
-- [🏥 Healthcare Data Insights (SQL)](https://github.com/yourusername/healthcare-sql-analysis)
-- [🔍 Manual Testing Defect Report (QA)](https://github.com/yourusername/manual-testing-report)
-
----
-
 ### 📫 Contact Me
 📧 shweta.ubnare06@gmail.com

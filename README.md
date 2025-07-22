@@ -26,7 +26,7 @@
 - 🧾 [Vrinda Store – E-commerce Sales Dashboard (Excel)](https://github.com/shweta184/E-commerce-Performance-Analysis-Excel-Project-)  
   Excel dashboard showing gender, state, age group & channel-wise sales performance — with actionable retail insights.
 
-- 🏥 [Healthcare SQL Project](https://github.com/shweta184/Health-Care-Data-Analysis-Using-SQL)  
+- 🏥 [Healthcare Data Analysis SQL Project](https://github.com/shweta184/Health-Care-Data-Analysis-Using-SQL)  
   Wrote SQL queries to analyze emergency admissions, cancer billing, patient readmission, and doctor diversity using window functions.
 ---
 

@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Shweta!
 
 🚀 Data Analyst | Power BI Developer  
-📊 Skilled in SQL, Microsoft Power BI, Advanced Excel, Python | 1.5+ years experience  
+📊 Skilled in SQL, Microsoft Power BI, Advanced Excel, Python | 1.5+ Years Experience in BI & Analytics  
 
 ---
 
